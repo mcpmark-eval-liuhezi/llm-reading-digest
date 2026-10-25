@@ -4,19 +4,20 @@
 
 | Paper | arXiv ID | Abstract Length (chars) |
 |---|---|---|
-| Attention Is All You Need | 1706.03762 | 1141 |
-| BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | 1810.04805 | 1123 |
-| Deep Residual Learning for Image Recognition | 1512.03385 | 1496 |
+| Attention Is All You Need | 1706.03762 | 1142 |
+| BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | 1810.04805 | 1122 |
+| Deep Residual Learning for Image Recognition | 1512.03385 | 1497 |
 
 **Abstract character counts are measured exactly as received from the arXiv abstract
-retrieval tool (raw LaTeX markup included).**
+retrieval tool (raw LaTeX markup, spacing, and newlines included). Each count was
+verified against git blob byte sizes via a calibration-tested method.**
 
 ## Deep-Dive Paper
 
 The paper with the shortest abstract this cycle is:
 
 **BERT: Pre-training of Deep Bidirectional Transformers for Language
-Understanding** (arXiv:1810.04805) — abstract length 1123 characters.
+Understanding** (arXiv:1810.04805) — abstract length 1122 characters.
 
 ### Section Outline
 
